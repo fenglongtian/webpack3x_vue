@@ -1,0 +1,16 @@
+html, body{
+  margin: 0;
+  padding: 0;
+
+  li{
+    font-size: 12px;
+    line-height: 30px;
+  }
+  .box{
+    width: 220px;
+    height: 120px;
+    background-size:cover;
+    background: url(../images/1.jpg);
+  }
+
+}
